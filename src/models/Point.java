@@ -1,5 +1,5 @@
 package models;
-
+//7j
 public class Point {
     private double x;
     private double y;
