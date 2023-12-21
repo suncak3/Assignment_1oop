@@ -1,5 +1,4 @@
-
-import models.Point;
+package models;
 
 
 import java.util.ArrayList;
