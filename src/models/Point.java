@@ -1,5 +1,4 @@
 package models;
-//7j
 public class Point {
     private double x;
     private double y;
@@ -32,6 +31,6 @@ public class Point {
         return distance;
     }
     public String toString(){
-        return "X value: " + this.x + "\n" + "Y value: " + this.y;
+        return "X value: " + this.x + '\n' + "Y value: " + this.y;
     }
 }
